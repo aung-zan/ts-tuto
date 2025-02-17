@@ -1,0 +1,2 @@
+- tsc --init or tsc filename.ts
+- ts-node filename.ts
